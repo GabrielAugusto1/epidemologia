@@ -31,7 +31,7 @@ Demonstrar, de forma visual e computacional, como doenças infecciosas como a de
 ## Artigo
 
 O artigo científico explicando o modelo, metodologia e resultados está disponível neste repositório:  
-[Artigo.pdf](https://github.com/GabrielAugusto1/epidemologia/ArtigoGabriel.pdf)
+[Artigo.pdf](https://github.com/GabrielAugusto1/epidemologia/blob/master/ArtigoGabriel.pdf)
 
 
 ## Referências
